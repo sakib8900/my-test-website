@@ -1,0 +1,18 @@
+#webpage{
+    text-align: center;
+    font-size: 50px;
+    color: aqua;
+    font-style: italic;
+    
+}
+.backgroud{
+    background-image: url('../webpage.jpg');
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    background-position: center;
+    background-size: 500px 400px;
+
+}
+.button{
+    text-align: center;
+}
